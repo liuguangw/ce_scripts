@@ -742,6 +742,19 @@
               </Offsets>
             </CheatEntry>
             <CheatEntry>
+              <ID>72</ID>
+              <Description>"幻昙花"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GameAssembly.dll+2F0A1F8</Address>
+              <Offsets>
+                <Offset>27c</Offset>
+                <Offset>18</Offset>
+                <Offset>48</Offset>
+                <Offset>b8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
               <ID>30</ID>
               <Description>"露水"</Description>
               <ShowAsSigned>0</ShowAsSigned>
@@ -788,6 +801,19 @@
               <Address>GameAssembly.dll+2F0A1F8</Address>
               <Offsets>
                 <Offset>1fc</Offset>
+                <Offset>18</Offset>
+                <Offset>48</Offset>
+                <Offset>b8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>75</ID>
+              <Description>"月光草"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GameAssembly.dll+2F0A1F8</Address>
+              <Offsets>
+                <Offset>28c</Offset>
                 <Offset>18</Offset>
                 <Offset>48</Offset>
                 <Offset>b8</Offset>
@@ -848,32 +874,6 @@
           </CheatEntries>
         </CheatEntry>
       </CheatEntries>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>72</ID>
-      <Description>"27c"</Description>
-      <ShowAsSigned>0</ShowAsSigned>
-      <VariableType>4 Bytes</VariableType>
-      <Address>GameAssembly.dll+2F0A1F8</Address>
-      <Offsets>
-        <Offset>27c</Offset>
-        <Offset>18</Offset>
-        <Offset>48</Offset>
-        <Offset>b8</Offset>
-      </Offsets>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>75</ID>
-      <Description>"28c"</Description>
-      <ShowAsSigned>0</ShowAsSigned>
-      <VariableType>4 Bytes</VariableType>
-      <Address>GameAssembly.dll+2F0A1F8</Address>
-      <Offsets>
-        <Offset>28c</Offset>
-        <Offset>18</Offset>
-        <Offset>48</Offset>
-        <Offset>b8</Offset>
-      </Offsets>
     </CheatEntry>
     <CheatEntry>
       <ID>76</ID>
