@@ -14,7 +14,7 @@
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
-          <Address>GameAssembly.dll+2F0A1F8</Address>
+          <Address>GameAssembly.dll+31A7860</Address>
           <Offsets>
             <Offset>2c</Offset>
             <Offset>18</Offset>
@@ -27,7 +27,7 @@
           <Description>"1c"</Description>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
-          <Address>GameAssembly.dll+2F0A1F8</Address>
+          <Address>GameAssembly.dll+31A7860</Address>
           <Offsets>
             <Offset>1c</Offset>
             <Offset>18</Offset>
@@ -40,7 +40,7 @@
           <Description>"雀酒"</Description>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
-          <Address>GameAssembly.dll+2F0A1F8</Address>
+          <Address>GameAssembly.dll+31A7860</Address>
           <Offsets>
             <Offset>3c</Offset>
             <Offset>18</Offset>
@@ -53,7 +53,7 @@
           <Description>"果味SOUR"</Description>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
-          <Address>GameAssembly.dll+2F0A1F8</Address>
+          <Address>GameAssembly.dll+31A7860</Address>
           <Offsets>
             <Offset>4c</Offset>
             <Offset>18</Offset>
@@ -66,7 +66,7 @@
           <Description>"果味High Ball"</Description>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
-          <Address>GameAssembly.dll+2F0A1F8</Address>
+          <Address>GameAssembly.dll+31A7860</Address>
           <Offsets>
             <Offset>5c</Offset>
             <Offset>18</Offset>
@@ -79,7 +79,7 @@
           <Description>"淇"</Description>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
-          <Address>GameAssembly.dll+2F0A1F8</Address>
+          <Address>GameAssembly.dll+31A7860</Address>
           <Offsets>
             <Offset>6c</Offset>
             <Offset>18</Offset>
@@ -92,7 +92,7 @@
           <Description>"日月星"</Description>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
-          <Address>GameAssembly.dll+2F0A1F8</Address>
+          <Address>GameAssembly.dll+31A7860</Address>
           <Offsets>
             <Offset>7c</Offset>
             <Offset>18</Offset>
@@ -105,7 +105,7 @@
           <Description>"超ZUN啤酒"</Description>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
-          <Address>GameAssembly.dll+2F0A1F8</Address>
+          <Address>GameAssembly.dll+31A7860</Address>
           <Offsets>
             <Offset>8c</Offset>
             <Offset>18</Offset>
@@ -118,7 +118,7 @@
           <Description>"梅酒"</Description>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
-          <Address>GameAssembly.dll+2F0A1F8</Address>
+          <Address>GameAssembly.dll+31A7860</Address>
           <Offsets>
             <Offset>9c</Offset>
             <Offset>18</Offset>
@@ -131,7 +131,7 @@
           <Description>"红柚果汁"</Description>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
-          <Address>GameAssembly.dll+2F0A1F8</Address>
+          <Address>GameAssembly.dll+31A7860</Address>
           <Offsets>
             <Offset>ac</Offset>
             <Offset>18</Offset>
@@ -144,7 +144,7 @@
           <Description>"水獭祭"</Description>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
-          <Address>GameAssembly.dll+2F0A1F8</Address>
+          <Address>GameAssembly.dll+31A7860</Address>
           <Offsets>
             <Offset>bc</Offset>
             <Offset>18</Offset>
@@ -157,7 +157,7 @@
           <Description>"波子汽水"</Description>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
-          <Address>GameAssembly.dll+2F0A1F8</Address>
+          <Address>GameAssembly.dll+31A7860</Address>
           <Offsets>
             <Offset>cc</Offset>
             <Offset>18</Offset>
@@ -170,7 +170,7 @@
           <Description>"牛奶"</Description>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
-          <Address>GameAssembly.dll+2F0A1F8</Address>
+          <Address>GameAssembly.dll+31A7860</Address>
           <Offsets>
             <Offset>dc</Offset>
             <Offset>18</Offset>
@@ -183,7 +183,7 @@
           <Description>"冰山毛玉冻柠"</Description>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
-          <Address>GameAssembly.dll+2F0A1F8</Address>
+          <Address>GameAssembly.dll+31A7860</Address>
           <Offsets>
             <Offset>ec</Offset>
             <Offset>18</Offset>
@@ -196,7 +196,7 @@
           <Description>"神之麦"</Description>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
-          <Address>GameAssembly.dll+2F0A1F8</Address>
+          <Address>GameAssembly.dll+31A7860</Address>
           <Offsets>
             <Offset>fc</Offset>
             <Offset>18</Offset>
@@ -209,7 +209,7 @@
           <Description>"风祝"</Description>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
-          <Address>GameAssembly.dll+2F0A1F8</Address>
+          <Address>GameAssembly.dll+31A7860</Address>
           <Offsets>
             <Offset>10c</Offset>
             <Offset>18</Offset>
@@ -222,7 +222,7 @@
           <Description>"教父"</Description>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
-          <Address>GameAssembly.dll+2F0A1F8</Address>
+          <Address>GameAssembly.dll+31A7860</Address>
           <Offsets>
             <Offset>11c</Offset>
             <Offset>18</Offset>
@@ -235,7 +235,7 @@
           <Description>"妖精雨露"</Description>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
-          <Address>GameAssembly.dll+2F0A1F8</Address>
+          <Address>GameAssembly.dll+31A7860</Address>
           <Offsets>
             <Offset>12c</Offset>
             <Offset>18</Offset>
@@ -248,7 +248,7 @@
           <Description>"普通健身茶"</Description>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
-          <Address>GameAssembly.dll+2F0A1F8</Address>
+          <Address>GameAssembly.dll+31A7860</Address>
           <Offsets>
             <Offset>13c</Offset>
             <Offset>18</Offset>
@@ -261,7 +261,7 @@
           <Description>"咖啡"</Description>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
-          <Address>GameAssembly.dll+2F0A1F8</Address>
+          <Address>GameAssembly.dll+31A7860</Address>
           <Offsets>
             <Offset>14c</Offset>
             <Offset>18</Offset>
@@ -274,7 +274,7 @@
           <Description>"古法奶油冰沙"</Description>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
-          <Address>GameAssembly.dll+2F0A1F8</Address>
+          <Address>GameAssembly.dll+31A7860</Address>
           <Offsets>
             <Offset>15c</Offset>
             <Offset>18</Offset>
@@ -287,7 +287,7 @@
           <Description>"大吟酿"</Description>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
-          <Address>GameAssembly.dll+2F0A1F8</Address>
+          <Address>GameAssembly.dll+31A7860</Address>
           <Offsets>
             <Offset>16c</Offset>
             <Offset>18</Offset>
@@ -300,7 +300,7 @@
           <Description>"古明地冰淇淋"</Description>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
-          <Address>GameAssembly.dll+2F0A1F8</Address>
+          <Address>GameAssembly.dll+31A7860</Address>
           <Offsets>
             <Offset>17c</Offset>
             <Offset>18</Offset>
@@ -310,12 +310,103 @@
         </CheatEntry>
         <CheatEntry>
           <ID>85</ID>
-          <Description>"18c"</Description>
+          <Description>"天狗踊"</Description>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
-          <Address>GameAssembly.dll+2F0A1F8</Address>
+          <Address>GameAssembly.dll+31A7860</Address>
           <Offsets>
             <Offset>18c</Offset>
+            <Offset>18</Offset>
+            <Offset>40</Offset>
+            <Offset>b8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>86</ID>
+          <Description>"冬酿"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GameAssembly.dll+31A7860</Address>
+          <Offsets>
+            <Offset>19c</Offset>
+            <Offset>18</Offset>
+            <Offset>40</Offset>
+            <Offset>b8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>87</ID>
+          <Description>"玉露茶"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GameAssembly.dll+31A7860</Address>
+          <Offsets>
+            <Offset>1ac</Offset>
+            <Offset>18</Offset>
+            <Offset>40</Offset>
+            <Offset>b8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>88</ID>
+          <Description>"腥红恶魔"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GameAssembly.dll+31A7860</Address>
+          <Offsets>
+            <Offset>1bc</Offset>
+            <Offset>18</Offset>
+            <Offset>40</Offset>
+            <Offset>b8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>89</ID>
+          <Description>"火鼠裘"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GameAssembly.dll+31A7860</Address>
+          <Offsets>
+            <Offset>1cc</Offset>
+            <Offset>18</Offset>
+            <Offset>40</Offset>
+            <Offset>b8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>90</ID>
+          <Description>"晓"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GameAssembly.dll+31A7860</Address>
+          <Offsets>
+            <Offset>1dc</Offset>
+            <Offset>18</Offset>
+            <Offset>40</Offset>
+            <Offset>b8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>98</ID>
+          <Description>"十四夜"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GameAssembly.dll+31A7860</Address>
+          <Offsets>
+            <Offset>1ec</Offset>
+            <Offset>18</Offset>
+            <Offset>40</Offset>
+            <Offset>b8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>99</ID>
+          <Description>"1fc"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GameAssembly.dll+31A7860</Address>
+          <Offsets>
+            <Offset>1fc</Offset>
             <Offset>18</Offset>
             <Offset>40</Offset>
             <Offset>b8</Offset>
@@ -342,7 +433,7 @@
               <Description>"鳟鱼"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
-              <Address>GameAssembly.dll+2F0A1F8</Address>
+              <Address>GameAssembly.dll+31A7860</Address>
               <Offsets>
                 <Offset>5c</Offset>
                 <Offset>18</Offset>
@@ -355,7 +446,7 @@
               <Description>"八目鳗"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
-              <Address>GameAssembly.dll+2F0A1F8</Address>
+              <Address>GameAssembly.dll+31A7860</Address>
               <Offsets>
                 <Offset>7c</Offset>
                 <Offset>18</Offset>
@@ -368,7 +459,7 @@
               <Description>"三文鱼"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
-              <Address>GameAssembly.dll+2F0A1F8</Address>
+              <Address>GameAssembly.dll+31A7860</Address>
               <Offsets>
                 <Offset>dc</Offset>
                 <Offset>18</Offset>
@@ -381,7 +472,7 @@
               <Description>"金枪鱼"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
-              <Address>GameAssembly.dll+2F0A1F8</Address>
+              <Address>GameAssembly.dll+31A7860</Address>
               <Offsets>
                 <Offset>17c</Offset>
                 <Offset>18</Offset>
@@ -394,7 +485,7 @@
               <Description>"极上金枪鱼"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
-              <Address>GameAssembly.dll+2F0A1F8</Address>
+              <Address>GameAssembly.dll+31A7860</Address>
               <Offsets>
                 <Offset>21c</Offset>
                 <Offset>18</Offset>
@@ -407,7 +498,7 @@
               <Description>"河豚"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
-              <Address>GameAssembly.dll+2F0A1F8</Address>
+              <Address>GameAssembly.dll+31A7860</Address>
               <Offsets>
                 <Offset>1cc</Offset>
                 <Offset>18</Offset>
@@ -420,7 +511,7 @@
               <Description>"虾"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
-              <Address>GameAssembly.dll+2F0A1F8</Address>
+              <Address>GameAssembly.dll+31A7860</Address>
               <Offsets>
                 <Offset>1ac</Offset>
                 <Offset>18</Offset>
@@ -433,7 +524,7 @@
               <Description>"螃蟹"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
-              <Address>GameAssembly.dll+2F0A1F8</Address>
+              <Address>GameAssembly.dll+31A7860</Address>
               <Offsets>
                 <Offset>22c</Offset>
                 <Offset>18</Offset>
@@ -455,7 +546,7 @@
               <Description>"猪肉"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
-              <Address>GameAssembly.dll+2F0A1F8</Address>
+              <Address>GameAssembly.dll+31A7860</Address>
               <Offsets>
                 <Offset>6c</Offset>
                 <Offset>18</Offset>
@@ -468,7 +559,7 @@
               <Description>"牛肉"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
-              <Address>GameAssembly.dll+2F0A1F8</Address>
+              <Address>GameAssembly.dll+31A7860</Address>
               <Offsets>
                 <Offset>11c</Offset>
                 <Offset>18</Offset>
@@ -481,7 +572,7 @@
               <Description>"鹿肉"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
-              <Address>GameAssembly.dll+2F0A1F8</Address>
+              <Address>GameAssembly.dll+31A7860</Address>
               <Offsets>
                 <Offset>16c</Offset>
                 <Offset>18</Offset>
@@ -494,7 +585,7 @@
               <Description>"野猪肉"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
-              <Address>GameAssembly.dll+2F0A1F8</Address>
+              <Address>GameAssembly.dll+31A7860</Address>
               <Offsets>
                 <Offset>bc</Offset>
                 <Offset>18</Offset>
@@ -507,7 +598,7 @@
               <Description>"黑毛猪肉"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
-              <Address>GameAssembly.dll+2F0A1F8</Address>
+              <Address>GameAssembly.dll+31A7860</Address>
               <Offsets>
                 <Offset>ec</Offset>
                 <Offset>18</Offset>
@@ -520,7 +611,7 @@
               <Description>"和牛"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
-              <Address>GameAssembly.dll+2F0A1F8</Address>
+              <Address>GameAssembly.dll+31A7860</Address>
               <Offsets>
                 <Offset>1ec</Offset>
                 <Offset>18</Offset>
@@ -542,7 +633,7 @@
               <Description>"豆腐"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
-              <Address>GameAssembly.dll+2F0A1F8</Address>
+              <Address>GameAssembly.dll+31A7860</Address>
               <Offsets>
                 <Offset>3c</Offset>
                 <Offset>18</Offset>
@@ -555,7 +646,7 @@
               <Description>"土豆"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
-              <Address>GameAssembly.dll+2F0A1F8</Address>
+              <Address>GameAssembly.dll+31A7860</Address>
               <Offsets>
                 <Offset>cc</Offset>
                 <Offset>18</Offset>
@@ -568,7 +659,7 @@
               <Description>"洋葱"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
-              <Address>GameAssembly.dll+2F0A1F8</Address>
+              <Address>GameAssembly.dll+31A7860</Address>
               <Offsets>
                 <Offset>12c</Offset>
                 <Offset>18</Offset>
@@ -581,7 +672,7 @@
               <Description>"南瓜"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
-              <Address>GameAssembly.dll+2F0A1F8</Address>
+              <Address>GameAssembly.dll+31A7860</Address>
               <Offsets>
                 <Offset>13c</Offset>
                 <Offset>18</Offset>
@@ -594,7 +685,7 @@
               <Description>"萝卜"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
-              <Address>GameAssembly.dll+2F0A1F8</Address>
+              <Address>GameAssembly.dll+31A7860</Address>
               <Offsets>
                 <Offset>4c</Offset>
                 <Offset>18</Offset>
@@ -607,7 +698,7 @@
               <Description>"海苔"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
-              <Address>GameAssembly.dll+2F0A1F8</Address>
+              <Address>GameAssembly.dll+31A7860</Address>
               <Offsets>
                 <Offset>2c</Offset>
                 <Offset>18</Offset>
@@ -620,7 +711,7 @@
               <Description>"蘑菇"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
-              <Address>GameAssembly.dll+2F0A1F8</Address>
+              <Address>GameAssembly.dll+31A7860</Address>
               <Offsets>
                 <Offset>10c</Offset>
                 <Offset>18</Offset>
@@ -633,7 +724,7 @@
               <Description>"松露"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
-              <Address>GameAssembly.dll+2F0A1F8</Address>
+              <Address>GameAssembly.dll+31A7860</Address>
               <Offsets>
                 <Offset>1dc</Offset>
                 <Offset>18</Offset>
@@ -646,7 +737,7 @@
               <Description>"竹笋"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
-              <Address>GameAssembly.dll+2F0A1F8</Address>
+              <Address>GameAssembly.dll+31A7860</Address>
               <Offsets>
                 <Offset>15c</Offset>
                 <Offset>18</Offset>
@@ -659,7 +750,7 @@
               <Description>"黄瓜"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
-              <Address>GameAssembly.dll+2F0A1F8</Address>
+              <Address>GameAssembly.dll+31A7860</Address>
               <Offsets>
                 <Offset>24c</Offset>
                 <Offset>18</Offset>
@@ -681,7 +772,7 @@
               <Description>"鸡蛋"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
-              <Address>GameAssembly.dll+2F0A1F8</Address>
+              <Address>GameAssembly.dll+31A7860</Address>
               <Offsets>
                 <Offset>fc</Offset>
                 <Offset>18</Offset>
@@ -694,7 +785,7 @@
               <Description>"桃子"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
-              <Address>GameAssembly.dll+2F0A1F8</Address>
+              <Address>GameAssembly.dll+31A7860</Address>
               <Offsets>
                 <Offset>19c</Offset>
                 <Offset>18</Offset>
@@ -707,7 +798,7 @@
               <Description>"白果"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
-              <Address>GameAssembly.dll+2F0A1F8</Address>
+              <Address>GameAssembly.dll+31A7860</Address>
               <Offsets>
                 <Offset>18c</Offset>
                 <Offset>18</Offset>
@@ -720,7 +811,7 @@
               <Description>"蜂蜜"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
-              <Address>GameAssembly.dll+2F0A1F8</Address>
+              <Address>GameAssembly.dll+31A7860</Address>
               <Offsets>
                 <Offset>9c</Offset>
                 <Offset>18</Offset>
@@ -733,7 +824,7 @@
               <Description>"蝉蜕"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
-              <Address>GameAssembly.dll+2F0A1F8</Address>
+              <Address>GameAssembly.dll+31A7860</Address>
               <Offsets>
                 <Offset>ac</Offset>
                 <Offset>18</Offset>
@@ -746,7 +837,7 @@
               <Description>"幻昙花"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
-              <Address>GameAssembly.dll+2F0A1F8</Address>
+              <Address>GameAssembly.dll+31A7860</Address>
               <Offsets>
                 <Offset>27c</Offset>
                 <Offset>18</Offset>
@@ -759,7 +850,7 @@
               <Description>"露水"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
-              <Address>GameAssembly.dll+2F0A1F8</Address>
+              <Address>GameAssembly.dll+31A7860</Address>
               <Offsets>
                 <Offset>8c</Offset>
                 <Offset>18</Offset>
@@ -772,7 +863,7 @@
               <Description>"黄油"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
-              <Address>GameAssembly.dll+2F0A1F8</Address>
+              <Address>GameAssembly.dll+31A7860</Address>
               <Offsets>
                 <Offset>1bc</Offset>
                 <Offset>18</Offset>
@@ -785,7 +876,7 @@
               <Description>"面粉"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
-              <Address>GameAssembly.dll+2F0A1F8</Address>
+              <Address>GameAssembly.dll+31A7860</Address>
               <Offsets>
                 <Offset>20c</Offset>
                 <Offset>18</Offset>
@@ -798,7 +889,7 @@
               <Description>"糯米"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
-              <Address>GameAssembly.dll+2F0A1F8</Address>
+              <Address>GameAssembly.dll+31A7860</Address>
               <Offsets>
                 <Offset>1fc</Offset>
                 <Offset>18</Offset>
@@ -811,7 +902,7 @@
               <Description>"月光草"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
-              <Address>GameAssembly.dll+2F0A1F8</Address>
+              <Address>GameAssembly.dll+31A7860</Address>
               <Offsets>
                 <Offset>28c</Offset>
                 <Offset>18</Offset>
@@ -824,7 +915,7 @@
               <Description>"辣椒"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
-              <Address>GameAssembly.dll+2F0A1F8</Address>
+              <Address>GameAssembly.dll+31A7860</Address>
               <Offsets>
                 <Offset>14c</Offset>
                 <Offset>18</Offset>
@@ -837,7 +928,7 @@
               <Description>"黑盐"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
-              <Address>GameAssembly.dll+2F0A1F8</Address>
+              <Address>GameAssembly.dll+31A7860</Address>
               <Offsets>
                 <Offset>23c</Offset>
                 <Offset>18</Offset>
@@ -850,7 +941,7 @@
               <Description>"奶油"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
-              <Address>GameAssembly.dll+2F0A1F8</Address>
+              <Address>GameAssembly.dll+31A7860</Address>
               <Offsets>
                 <Offset>25c</Offset>
                 <Offset>18</Offset>
@@ -863,7 +954,7 @@
               <Description>"芝士"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
-              <Address>GameAssembly.dll+2F0A1F8</Address>
+              <Address>GameAssembly.dll+31A7860</Address>
               <Offsets>
                 <Offset>26c</Offset>
                 <Offset>18</Offset>
@@ -880,7 +971,7 @@
       <Description>"29c"</Description>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>4 Bytes</VariableType>
-      <Address>GameAssembly.dll+2F0A1F8</Address>
+      <Address>GameAssembly.dll+31A7860</Address>
       <Offsets>
         <Offset>29c</Offset>
         <Offset>18</Offset>
